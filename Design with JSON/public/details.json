@@ -1,0 +1,99 @@
+ [
+ {
+   "img":"images.png",
+   "name":"Try jobs private limited",
+   "description":"Location:Coimbatore,Tamilnadu Created:20 DEC 2021",
+   "tag":"CRM",
+   "person":"Ramcharan",
+   "persondesc":"Contact:9000465478",
+   "status":"New",
+   "statusdesc":"status key word",
+   "date":"20 JAN 2022",
+   "datedesc":"4 days left"
+ },
+{
+    "img":"images.png",
+    "name":"Aagnia Technology private limited",
+    "description":"Location:Coimbatore,Tamilnadu Created:20 DEC 2021",
+    "tag":"Ecommerce",
+    "person":"Karthikeyan",
+    "persondesc":"Contact:9000465478",
+    "status":"Hot",
+    "statusdesc":"status key word",
+    "date":"25 JAN 2022",
+    "datedesc":"4 days left"
+},
+{
+    "img":"images.png",
+    "name":"Try jobs private limited",
+    "description":"Location:Coimbatore,Tamilnadu Created:20 DEC 2021",
+    "tag":"CRM",
+    "person":"Ramcharan",
+    "persondesc":"Contact:9000465478",
+    "status":"Lost",
+    "statusdesc":"status key word",
+    "date":"20 JAN 2022",
+    "datedesc":"4 days left"
+  },
+  {
+    "img":"images.png",
+    "name":"Aagnia Technology private limited",
+    "description":"Location:Coimbatore,Tamilnadu Created:20 DEC 2021",
+    "tag":"Ecommerce",
+    "person":"Karthikeyan",
+    "persondesc":"Contact:9000465478",
+    "status":"Won",
+    "statusdesc":"status key word",
+    "date":"25 JAN 2022",
+    "datedesc":"4 days left"
+},
+{
+    "img":"images.png",
+    "name":"Try jobs private limited",
+    "description":"Location:Coimbatore,Tamilnadu Created:20 DEC 2021",
+    "tag":"CRM",
+    "person":"Ramcharan",
+    "persondesc":"Contact:9000465478",
+    "status":"Lost",
+    "statusdesc":"status key word",
+    "date":"20 JAN 2022",
+    "datedesc":"4 days left"
+  },
+  {
+    "img":"images.png",
+    "name":"Aagnia Technology private limited",
+    "description":"Location:Coimbatore,Tamilnadu Created:20 DEC 2021",
+    "tag":"Ecommerce",
+    "person":"Karthikeyan",
+    "persondesc":"Contact:9000465478",
+    "status":"Won",
+    "statusdesc":"status key word",
+    "date":"25 JAN 2022",
+    "datedesc":"4 days left"
+},
+{
+    "img":"images.png",
+    "name":"Try jobs private limited",
+    "description":"Location:Coimbatore,Tamilnadu Created:20 DEC 2021",
+    "tag":"CRM",
+    "person":"Ramcharan",
+    "persondesc":"Contact:9000465478",
+    "status":"Lost",
+    "statusdesc":"status key word",
+    "date":"20 JAN 2022",
+    "datedesc":"4 days left"
+  },
+  {
+    "img":"images.png",
+    "name":"Aagnia Technology private limited",
+    "description":"Location:Coimbatore,Tamilnadu Created:20 DEC 2021",
+    "tag":"Ecommerce",
+    "person":"Karthikeyan",
+    "persondesc":"Contact:9000465478",
+    "status":"Won",
+    "statusdesc":"status key word",
+    "date":"25 JAN 2022",
+    "datedesc":"4 days left"
+}
+
+]

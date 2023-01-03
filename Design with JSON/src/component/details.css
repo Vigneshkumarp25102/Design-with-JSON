@@ -1,0 +1,21 @@
+.color1{
+    color:aqua;
+}
+.color2{
+    color: rgb(214, 15, 15);
+}
+.color3{
+    color: grey;
+}
+.color4{
+    color: green;
+}
+.butt{
+    border-radius: 30px;
+    border-color:grey;
+    color: grey;
+    width:25%;
+    height:40px;
+}
+/* 
+ if([$status] == 'New' || [$status] =='Hot' || [$status] == 'Lost'  , '#00afff', '#d7dae1') */

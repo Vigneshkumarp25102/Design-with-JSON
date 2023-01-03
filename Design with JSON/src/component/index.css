@@ -1,0 +1,40 @@
+.txt1idx1{
+    font-weight: 500;
+    font-size: large;
+}
+.txt2idx1{
+    font-weight: 100;
+    font-size: medium;
+}
+.btn1idx1{
+    margin-left: 10%;
+    border: none;
+    outline: none;
+}
+.inpidx1{
+    border: none;
+    outline: none;
+}
+.inpbtnidx{
+    border: 1px solid;
+    border-radius: 20px;
+    width: 250px;
+}
+.selectbar{
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+.ic4idx1{
+    margin-top: 10px;
+}
+.txt4idx1{
+    margin-top: 5px;
+}
+.plusidx1{
+    width:fit-content;
+    height: 35px;
+    border-radius: 20px;
+    font-weight: 600;
+    background-color: green;
+}
